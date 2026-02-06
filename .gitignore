@@ -1,2 +1,5 @@
 /.venv/
 /.vscode/
+/src/server/log/
+/.idea/
+__pycache__/

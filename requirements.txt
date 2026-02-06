@@ -1,0 +1,7 @@
+pydantic
+loguru
+typing-extensions
+python-dotenv
+uvicorn
+pyqt5
+fastapi
